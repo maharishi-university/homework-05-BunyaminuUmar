@@ -4,7 +4,7 @@
   "description": "Implement the code for `Meditation` class to be used as follows:\r ```typescript\r const morning_meditation = new Meditation(5);\r morning_meditation.start();\r console.log(`Start meditation`);",
   "main": "index.js",
   "scripts": {
-    "start": "tsx watch Exercise02.ts"
+    "start": "tsx watch Exercise03.ts"
   },
   "keywords": [],
   "author": "",
